@@ -1,6 +1,6 @@
 {
   "name": "name-to-gender",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Guess gender from a first name using US Social Security data. Returns a probability and the raw birth counts. TypeScript, ESM + CJS, zero dependencies.",
   "homepage": "https://github.com/michaelcummings12/name-to-gender#readme",
   "type": "module",
